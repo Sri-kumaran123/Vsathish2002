@@ -35,14 +35,22 @@
 
 ---
 
-## 📌 About Me
-- 💻 Passionate **Full Stack Developer** with hands-on experience in **MERN Stack** (MongoDB, Express, React, Node.js).
-- 🔹 Skilled in **Java** and currently mastering **Data Structures & Algorithms (DSA)** for problem-solving.
-- 🚀 Focused on building clean, efficient, and high-performance web applications.
-- 🌱 Lifelong learner — always exploring new tools and improving workflows.
-- ⚡ Fun fact: I debug faster with coffee ☕.
+# 👨‍💻 About Me  
 
+Hi there! I'm a **Full Stack Developer** passionate about building scalable, efficient, and user-friendly applications.  
+
+✨ **What I Do:**  
+- 🚀 Develop web apps with the **MERN Stack** (MongoDB • Express • React • Node.js)  
+- 💡 Solve problems using **Java** and **Data Structures & Algorithms (DSA)**  
+- 🛠️ Write **clean, maintainable, and high-performance code**  
+
+🌱 **Always Learning:**  
+- Exploring new tools, frameworks, and best practices  
+- Improving workflows and development efficiency  
+
+⚡ **Fun Fact:** I debug faster when fueled with coffee ☕  
 ---
+
 
 ## 🛠️ Technologies & Tools
 **Frontend:** React, HTML5, CSS3, Tailwind, Bootstrap, JavaScript (ES6+)  
